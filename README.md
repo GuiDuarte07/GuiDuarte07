@@ -10,7 +10,7 @@
 </a>
 <br>
 
-<h3 align="start">Principais Ferramentas</h3>
+<h3 align="start">👩‍💻 Principais Ferramentas</h3>
 
 <div style="display: inline_block">
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -22,23 +22,19 @@
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
-  
-  
   
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />          
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
-<h3 align="start">Sobre mim</h3>
+<h3 align="start">👦 Sobre mim</h3>
 Sou programador há 3 anos, nesse tempo estudando programação já tentei um pouco de tudo, estudei lógica de programação e estruturas de dados com a linguagem C, estudando ponteiros, alocação, listas, pilhas, ordenação e por ai vai. 
 Em seguida começei a estudar programação web, usando o HTML, CSS e JavaScript, por um tempo usei somente essa stack, fazendo tudo de mão, isso me gerou bons frutos, pois a parte de manipulação da DOM, manipulação com JS e API's
 dos navegadores são coisas que me acostumei com o uso. Depois escolhi como framework, para agilizar o desenvolvimento, o React, depois de me adaptar ao React somei com o uso do NextJs, para criar um ambiente completo para desenvolvimento Web.
