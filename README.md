@@ -1,10 +1,7 @@
 <h3 align="start">👋 Olá, sejam bem-vindos! Meu nome é Guilherme Duarte.</h3>
-
+<h4>Programador Full-Stack .NET / React / Angular</h4>
 <br>
 
-<a href="https://github.com/GuiDuarte07">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiDuarte07&show_icons=true&theme=radical" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDuarte07&theme=radical&layout=compact" />
 </a>
@@ -28,6 +25,8 @@
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+
   
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />          
   <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
@@ -36,19 +35,27 @@
 
 <h3 align="start">👦 Sobre mim</h3>
 Sou programador há 3 anos, nesse tempo estudando programação já tentei um pouco de tudo, estudei lógica de programação e estruturas de dados com a linguagem C, estudando ponteiros, alocação, listas, pilhas, ordenação e por ai vai. 
-Em seguida começei a estudar programação web, usando o HTML, CSS e JavaScript, por um tempo usei somente essa stack, fazendo tudo de mão, isso me gerou bons frutos, pois a parte de manipulação da DOM, manipulação com JS e API's
+Em seguida começei a estudar programação web, usando o HTML, CSS e JavaScript, por um tempo usei somente essa stack, fazendo tudo na mão, isso me gerou bons frutos, pois a parte de manipulação da DOM, manipulação com JS e API's
 dos navegadores são coisas que me acostumei com o uso. Depois escolhi como framework, para agilizar o desenvolvimento, o React, depois de me adaptar ao React somei com o uso do NextJs, para criar um ambiente completo para desenvolvimento Web.
 Hoje também uso ferramentas como o Angular, tailwind e outras bibliotecas.
-<br>
+<br><br>
 Também naveguei pelo área do backend, inicialmente com o nodejs, aprendendo o básico do express e de como organizar e desenvolver uma API. Aprendendo também um pouco do NestJs e do Prisma.
-Atualmente estou estudando e desenvolvendo aplicações usando C# com .NET e EFCore. E na parte do front, o Angular.
+Posteriormente realizei um BootCamp de 6 meses focado em .NET e Angular, a partir daí, venho estudando e desenvolvendo aplicações usando C# com .NET e EFCore. E na parte do front,  Angular ou React. Estudei POO, API REST, MVC, testes, TDD, arquitetura de sistemas, autenticação, metodologias ágeis e sigo buscando aprender novas coisas todo dia.
+<br><br>
 Também possuo alguns conhecimentos em DevOps, como Docker e AWS, pois são ferramentas que usei para disponibilizar uma aplicação na internet.
 
 <h3 align="start">🚀 Projetos em Destaque</h3>
 <ul>
-  <li><a href="https://controlecerto-frontend.vercel.app" target="_blank">ControleCerto</a>: Um sistema completo para controle financeiro, com backend em .NET, frontend em Angular e deploy na AWS com Docker.</li>
+  <li><a href="https://www.controlecerto.online" target="_blank">ControleCerto</a>: Controle Certo é o meu projeto principal, no qual venho dedicando grande parte do meu tempo. Trata-se de um sistema completo de gestão financeira, que oferece funcionalidades como cadastro de contas, registro de receitas e despesas, acompanhamento de transações, categorização (com subcategorias), transações recorrentes, notificações, entre outros recursos típicos de um aplicativo profissional da área.
+
+O front-end foi desenvolvido em Angular, com componentização em TailwindCSS e PrimeNG. O back-end foi construído em .NET, com testes em xUnit, além de containerização com Docker e integração com serviços como Redis e RabbitMQ.
+
+O deploy foi realizado na AWS, utilizando instâncias EC2, banco de dados Postgres no RDS, balanceamento de carga com HTTPS certificado e arquitetura organizada seguindo boas práticas como MVC.</li>
+
   <li><a href="https://github.com/Apollo-Coders" target="_blank">Apollo Coders</a>: Uma "empresa" fictícia desenvolvida durante um bootcamp, o princípal destaque dessa aplicação, fora o desenvolvimento em si dele, foi o aprendizado com trabalho em equipe e organização de tarefas, fazendo uso de PR's, Git Flow, branchs de desenvolvimento, Trello.</li>
+  
   <li><a href="https://github.com/GuiDuarte07/Jogo-dos-numeros" target="_blank">Jogo dos números</a>: Desenvolvido com React, o intuito desse projeto era entender como trabalhar usando React e API's nativas do navegador como a de eventos de mouse.</li>
+  
   <li><a href="https://github.com/GuiDuarte07/Minesweeper" target="_blank">Campo Minado</a>: Usando apenas HTML, CSS e Javascript, é um projeto antigo porém de boa valia, pois demonstra um entendimento das linguagens usadas e de lógica de programação.</li>
 </ul>
 
@@ -57,5 +64,5 @@ Também possuo alguns conhecimentos em DevOps, como Docker e AWS, pois são ferr
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/guilduarte07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:guilduart.abr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://portfolio-guiduarte07.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </div>
-
